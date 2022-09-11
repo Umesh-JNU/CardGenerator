@@ -40,7 +40,7 @@ export default function App() {
 
   return (
     <>
-      <div className="flex bg-background">
+      <div className="flex flex-wrap bg-background">
         <div className="w-1/3 h-screen flex justify-center items-center border-r-2 border-bordercolor">
           <Header />
           <div className="w-5/6 input-field flex flex-col items-center">
