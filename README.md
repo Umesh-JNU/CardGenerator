@@ -1,6 +1,5 @@
 # Getting Started with CardGenerator
 
-This project is done for the [MTechZilla](https://mtechzilla.com/) as an assessment. 
 Since, it generates a card specifically for the github user, the theme is very much similar to github darkmode.
 
 ![image](https://user-images.githubusercontent.com/56982559/189482952-f2ac2368-d2e4-4f09-873d-a160c964c442.png)
